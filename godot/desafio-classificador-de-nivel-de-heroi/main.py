@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-'''# Desafio Classificador de nível de Herói
+'''# Desafio classificador de nível de herói
 
 **O Que deve ser utilizado**
 
